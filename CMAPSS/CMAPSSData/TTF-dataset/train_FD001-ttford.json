@@ -1,0 +1,193 @@
+[
+  {
+    "fieldName": "AssetID",
+    "values": null,
+    "range": null,
+    "dataType": "STRING",
+    "opType": "ENTITY_ID",
+    "timeSamplingInterval": null,
+    "isStatic": false
+  },
+  {
+      "fieldName": "record_purpose",
+      "values": null,
+      "range": null,
+      "dataType": "STRING",
+      "opType": "INFORMATIONAL",
+      "timeSamplingInterval": null,
+      "isStatic": false
+  },
+   {
+      "fieldName": "op1",
+      "values": null,
+      "range": null,
+      "dataType": "DOUBLE",
+      "opType": "CONTINUOUS",
+      "timeSamplingInterval": null,
+      "isStatic": false
+  },
+   {
+        "fieldName": "op2",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  }, {
+      "fieldName": "s2",
+      "values": null,
+      "range": null,
+      "dataType": "DOUBLE",
+      "opType": "CONTINUOUS",
+      "timeSamplingInterval": null,
+      "isStatic": false
+  },
+   {
+        "fieldName": "s3",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s4",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s6",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s7",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s8",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s9",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s11",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s12",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s13",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s14",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s15",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s17",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s20",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "s21",
+        "values": null,
+        "range": null,
+        "dataType": "DOUBLE",
+        "opType": "CONTINUOUS",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+        "fieldName": "TTFord",
+        "values": ["less10",
+        	   "10to50",
+        	   "50to100",
+        	   "more100"],
+        "range": null,
+        "dataType": "STRING",
+        "opType": "ORDINAL",
+        "timeSamplingInterval": null,
+        "isStatic": false
+  },
+   {
+      "fieldName": "cycle",
+      "values": null,
+      "range": null,
+      "dataType": "DOUBLE",
+      "opType": "TEMPORAL",
+      "timeSamplingInterval": 1,
+      "isStatic": false
+  }
+  ]
